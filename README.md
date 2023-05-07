@@ -1,9 +1,12 @@
 ## Hi There 👋 I'm Hama Issoufou, Junior C / C++ Developer 🚀
 
 - 👩🏻‍💻&nbsp;Software Developer
+- 🌱 i'm currently learning C/C++ and UNIX OPERATING SYSTEM in 42 HEILBRONN
+- 🪴 i learning also Frontend  
 - 🐣&nbsp;<a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbronn</a> - intra: <b>ihama</b>
 - 🇫🇷🇺🇸 Contact me with these languages
 - 🇩🇪 Currently learning...
+- ⚡️ Fun fact i'm sociable and funny
 
 ## A Little More About Me 💬
 
@@ -22,6 +25,6 @@ I discovered that it would be better for me to focus on practical training rathe
 </p>
 
 ## Languages and Tools 🛠️<br />
-|<img style="width: 80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"> |<img style="width: 80px" src="https://user-images.githubusercontent.com/81783752/216672005-ea991e98-9dd0-41ea-8e3d-bea87752775a.png"> |<img style="width: 80px" src="https://user-images.githubusercontent.com/118751159/216626822-f92e5839-41a3-4aec-987c-f4ec39b3d1f7.png">| <img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">| <img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"> |<img style="width: 90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"> |
+|<img style="width: 80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"> |<img style="width: 80px" src="https://user-images.githubusercontent.com/81783752/216672005-ea991e98-9dd0-41ea-8e3d-bea87752775a.png"> || <img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">| <img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"> |<img style="width: 90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"> |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |<b>C</b>|<b>C++</b>|<b>Python</b>|<b>SQL</b>|<b>Git</b>|<b>Bash</b>|
