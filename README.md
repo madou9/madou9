@@ -1,23 +1,22 @@
 ## Hi There 👋 I'm Hama Issoufou, Junior C / C++ Developer 🚀
 
-- 📚&nbsp;Computer Engineering / Politecnico Di Torino
 - 👩🏻‍💻&nbsp;Software Developer
-- 🐣&nbsp;<a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbronn</a> - intra: <b>cutku</b>
-- 🇹🇷🇺🇸 Contact me with these languages
+- 🐣&nbsp;<a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbronn</a> - intra: <b>ihama</b>
+- 🇫🇷🇺🇸 Contact me with these languages
 - 🇩🇪 Currently learning...
-- :EMOJICODE:france
+
 ## A Little More About Me 💬
 
-I realized how significant technology is in today's world . It inspired me to develop interest in coding and hence I decided to study Computer Engineering. 
+After my studies in Mechanical Engineering, I realized the importance of technology in today's world. This made me interested in coding and so I decided to study programming. 
 
-I discovered that it would be better for me to focus on practical education instead of gaining only theoretical knowledge. And therefore I am currently pursuing my education in 42 Heilbronn which follows a 100% practical, project base and peer-to-peer system. The curriculum at 42 provides deep insights into programming concepts like C, C++ and the UNIX operating system.
+I discovered that it would be better for me to focus on practical training rather than just acquiring theoretical knowledge. That's why I am currently studying at 42 Heilbronn, which follows a 100% hands-on, project-based, peer-to-peer system. The curriculum at 42 offers a thorough overview of programming concepts such as C, C++ and the UNIX operating system.
 
 <p align="center">
-  <a href="https://leetcode.com/CagatayUtku/" target="_blank">
+  <a href="https://leetcode.com/Madou9/" target="_blank">
     <img width="18%" alt="Check my Leetcode" src="https://user-images.githubusercontent.com/118751159/216605771-e367d820-53bf-44dd-960d-474430cadcca.png"/>
   </a>
  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/cagatay-utku/" target="_blank">
+  <a href="https://www.linkedin.com/in/issoufou-hindjekoye-hama/" target="_blank">
       <img width="18%" alt="Check my Linkedin" src="https://user-images.githubusercontent.com/118751159/216603615-c221cd5b-b707-4c5c-9cff-1dc2430a60d2.png"/>
  
 </p>
