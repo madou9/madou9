@@ -1,8 +1,7 @@
-## Hi There 👋 I'm Hama Issoufou, Junior C / C++ Developer 🚀
+## Hi There 👋 I'm Hama Issoufou, front end developer 🚀
 
 - 👩🏻‍💻&nbsp;Software Developer
-- 🌱 i'm currently learning C/C++ and UNIX OPERATING SYSTEM in 42 HEILBRONN
-- 🪴 i learning also Frontend  
+- 🌱 i'm currently learning C/C++ and UNIX OPERATING SYSTEM in 42 HEILBRONN 
 - 🐣&nbsp;<a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbronn</a> - intra: <b>ihama</b>
 - 🇫🇷🇺🇸 Contact me with these languages
 - 🇩🇪 Currently learning...
