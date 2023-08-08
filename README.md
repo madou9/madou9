@@ -1,4 +1,4 @@
-## Hi There 👋 I'm Hama Issoufou, front end developer 🚀
+## Hi There 👋 I'm Hama Issoufou, frontend developer 🚀
 
 - 🌱 I'm currently learning C/C++ and UNIX OPERATING SYSTEM in 42 HEILBRONN 
 - 👩🏻‍💻&nbsp;Software Developer
