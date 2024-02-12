@@ -9,9 +9,12 @@
 
 ## A Little More About Me 💬
 
-After my studies in Mechanical Engineering, I realized the importance of technology in today's world. This made me interested in coding and so I decided to study programming. 
-
-I discovered that it would be better for me to focus on practical training rather than just acquiring theoretical knowledge. That's why I am currently studying at 42 Heilbronn, which follows a 100% hands-on, project-based, peer-to-peer system. The curriculum at 42 offers a thorough overview of programming concepts such as C, C++ and the UNIX operating system.
+As an experienced Front-End developer,  I have a keen interest in technology. Recognizing the essential role of technology, 
+I ventured into programming. I have an impressive arsenal of skills in HTML, CSS, JavaScript, React, Tailwind and more.I excel at designing and maintaining responsive websites
+that deliver a fluid user experience. My expertise lies in creating dynamic and engaging interfaces by writing clean, optimized code and using tools and
+using state-of-the-art development tools and techniques.
+I'm also a team player who thrives on collaborating with cross-functional teams to produce outstanding web applications.
+This diverse skill set makes me a versatile professional ready to contribute at the intersection of engineering and technology.
 
 <p align="center">
   <a href="https://leetcode.com/Madou9/" target="_blank">
