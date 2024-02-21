@@ -17,10 +17,10 @@ I'm also a team player who thrives on collaborating with cross-functional teams 
 This diverse skill set makes me a versatile professional ready to contribute at the intersection of engineering and technology.
 
 <p align="center">
-  <a href="https://leetcode.com/Madou9/" target="_blank">
+<!--   <a href="https://leetcode.com/Madou9/" target="_blank">
     <img width="18%" alt="Check my Leetcode" src="https://user-images.githubusercontent.com/118751159/216605771-e367d820-53bf-44dd-960d-474430cadcca.png"/>
   </a>
- &nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://www.linkedin.com/in/issoufou-hindjekoye-hama/" target="_blank">
       <img width="18%" alt="Check my Linkedin" src="https://user-images.githubusercontent.com/118751159/216603615-c221cd5b-b707-4c5c-9cff-1dc2430a60d2.png"/>
 </p>
