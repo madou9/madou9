@@ -12,7 +12,7 @@
 As an experienced Front-End developer, I have a keen interest in technology. Recognizing the essential role of technology, I ventured into programming. I possess a strong skill set in HTML, CSS, JavaScript, React, Tailwind, and more. I excel at designing and maintaining responsive websites that deliver a fluid user experience. My expertise lies in creating dynamic and engaging interfaces by writing clean, optimized code and using state-of-the-art development tools and techniques. I'm also a team player who thrives on collaborating with cross-functional teams to produce outstanding web applications. This diverse skill set makes me a versatile professional ready to contribute at the intersection of engineering and technology.
 
 <p align="center">
-  <a href="[https:https://www.linkedin.com/in/hama586/](https://www.linkedin.com/in/hama586/)" target="_blank">
+  <a href="https://www.linkedin.com/in/hama586/" target="_blank">
     <img width="18%" alt="Check my Linkedin" src="https://user-images.githubusercontent.com/118751159/216603615-c221cd5b-b707-4c5c-9cff-1dc2430a60d2.png"/>
   </a>
 </p>
