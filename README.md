@@ -1,6 +1,5 @@
 ## Hi There 👋 I'm Hama Issoufou, Software Developer 🚀
 
-- 🌱 Currently learning C/C++ and UNIX OPERATING SYSTEM at 42 HEILBRONN 
 - 👩🏻‍💻 Software Developer
 - 🐣 [42-Heilbronn](https://www.42heilbronn.de/en/) - intra: **ihama**
 - 🇫🇷🇺🇸 Fluent in French and English
