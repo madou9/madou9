@@ -3,7 +3,7 @@
 - 👩🏻‍💻 Software Developer
 - 🐣 [42-Heilbronn](https://www.42heilbronn.de/en/) - intra: **ihama**
 - 🇫🇷🇺🇸 Fluent in French and English
-- 🇩🇪 Currently learning German...
+- 🇩🇪 Currently learning German B1 
 - ⚡️ Fun fact: I'm sociable and funny
 
 ## A Little More About Me 💬
