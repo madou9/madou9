@@ -8,7 +8,7 @@
 
 ## A Little More About Me 💬
 
-Motiveted Software Developer 💻 trying to learn as much as possible (I think it's going to never end 😃 ) Currently expanding my knowledge at 42Heilbronn 🎒
+Motivated Software Developer 💻 trying to learn as much as possible (I think it's going to never end 😃 ) Currently expanding my knowledge at 42Heilbronn 🎒
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hama586/" target="_blank">
