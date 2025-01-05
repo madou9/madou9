@@ -1,6 +1,6 @@
 ## Hi There 👋 I'm Hama Issoufou, Software Developer 🚀
 
-- 👩🏻‍💻 Software Developer
+- 👩🏻‍💻 Software Engineer
 - 🐣 [42-Heilbronn](https://www.42heilbronn.de/en/) - intra: **ihama**
 - 🇫🇷🇺🇸 Fluent in French and English
 - 🇩🇪 Currently learning German B1 
