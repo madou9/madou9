@@ -1,4 +1,4 @@
-## Hi There 👋 I'm Hama Issoufou, Software Developer 🚀
+## Hi There 👋 I'm Hama Issoufou, Software Engineer 🚀
 
 - 👩🏻‍💻 Software Engineer
 - 🐣 [42-Heilbronn](https://www.42heilbronn.de/en/) - intra: **ihama**
