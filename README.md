@@ -8,7 +8,8 @@
 
 ## A Little More About Me 💬
 
-Hello there! I am Hama, a 27-year-old digital enthusiast passionate about turning ideas into reality with interactive and attractive designs. My career started with a bachelor's degree in Mechanical Engineering, but my curiosity led me to take up the challenges of web development and C/C++ programming. When I'm not coding, you'll find me immersed in the game, exploring the latest anime or enjoying a good book with a cup of perfectly brewed coffee. My Philosophy? Stay curious, keep learning and consider each challenge as a stepping stone to greatness
+My journey started with a Bachelor’s in Mechanical Engineering, but my curiosity and love for problem-solving led me to software development , and since then, I’ve expanded my expertise by working on diverse projects and embracing new technologies.
+💡 Philosophy: Stay curious, keep learning, and build for the future.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hama586/" target="_blank">
