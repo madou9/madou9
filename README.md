@@ -12,7 +12,7 @@ My journey started with a Bachelor’s in Mechanical Engineering, but my curiosi
 💡 Philosophy: Stay curious, keep learning, and build for the future.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hama586/" target="_blank">
+  <a href="https://www.linkedin.com/in/hama-issoufou/" target="_blank">
     <img width="18%" alt="Check my Linkedin" src="https://user-images.githubusercontent.com/118751159/216603615-c221cd5b-b707-4c5c-9cff-1dc2430a60d2.png"/>
   </a>
 </p>
