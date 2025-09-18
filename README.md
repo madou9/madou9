@@ -39,7 +39,7 @@ Philosophy: *Stay curious, keep learning, and build for the future.*
 - **Cloud Engineering Projects** – Hands-on with **OpenStack, Kubernetes, and MLflow** during my time at Arkadia / accelerator programs.  
 - **Personal Projects** – Explore my repos for experiments in **Vue.js, React, and Go**.  
 
---
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hama-issoufou/" target="_blank">
