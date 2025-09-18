@@ -5,7 +5,7 @@
 - 💻 Passionate about **web development, cloud technologies*  
 - ⚡ Fun fact: I’m sociable, curious, and enjoy learning through collaboration  
 
----
+
 
 ## About Me 💬  
 
@@ -14,7 +14,7 @@ Since then, I’ve worked on diverse projects from building **frontend applicati
 
 Philosophy: *Stay curious, keep learning, and build for the future.*  
 
----
+
 
 ## 🔧 Technologies & Tools  
 
@@ -32,7 +32,6 @@ Philosophy: *Stay curious, keep learning, and build for the future.*
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> 
 </p>  
 
----
 
 ## 🚀 Projects & Work  
 
