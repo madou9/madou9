@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Software Engineering student at [42 Heilbronn](https://www.42heilbronn.de/en/) – intra: **ihama**  
 - 🌍 Based in Germany | Fluent in **French 🇫🇷** and **English 🇺🇸** | Learning **German 🇩🇪 (B2)**  
-- 💻 Passionate about **web development, cloud technologies*  
+- 💻 Passionate about **web development**, **cloud technologies**  
 - ⚡ Fun fact: I’m sociable, curious, and enjoy learning through collaboration  
 
 
@@ -38,8 +38,6 @@ Philosophy: *Stay curious, keep learning, and build for the future.*
 - **Frontend Developer Intern @ Serverless Salad** – Contributed to a B2B SaaS platform, building UI components and collaborating with backend engineers.  
 - **Cloud Engineering Projects** – Hands-on with **OpenStack, Kubernetes, and MLflow** during my time at Arkadia / accelerator programs.  
 - **Personal Projects** – Explore my repos for experiments in **Vue.js, React, and Go**.  
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hama-issoufou/" target="_blank">
