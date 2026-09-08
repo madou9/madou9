@@ -1,48 +1,40 @@
-## Hi There 👋 I'm Hama Issoufou, Software Engineer 🚀  
+# Hi there, I'm Hama Issoufou 👋
 
-- 👨🏻‍💻 Software Engineering student at [42 Heilbronn](https://www.42heilbronn.de/en/) – intra: **ihama**  
-- 🌍 Based in Germany | Fluent in **French 🇫🇷** and **English 🇺🇸** | Learning **German 🇩🇪 (B2)**  
-- 💻 Passionate about **web development**, **cloud technologies**  
-- ⚡ Fun fact: I’m sociable, curious, and enjoy learning through collaboration  
+Software Engineer based in Heilbronn, Germany. Currently building full-stack web applications with Next.js & TypeScript at **Werk 8**, and an alumnus/student of **42 Heilbronn**.
 
+- 🔭 **Currently working on:** Full-stack development, headless CMS architectures, and SEO optimization.
+- 💡 **Core Stack:** TypeScript, Next.js, React, Go, PostgreSQL, Docker, Kubernetes.
+- 🌐 **Languages:** English (Fluent), French (Native), German (B2).
+- 📬 **Get in touch:** [LinkedIn](https://linkedin.com/in/hama-issoufou) | [Portfolio](https://my-portfolio-git-main-hamas-projects-42791e49.vercel.app) | [Email](mailto:ihama.hindjekoye@gmail.com)
 
+---
 
-## About Me 💬  
+### 🛠️ Tech & Tools
 
-My journey started with a **Bachelor’s in Mechanical Engineering**, but my curiosity and love for problem solving led me to software development.  
-Since then, I’ve worked on diverse projects from building **frontend applications with Vue.js/React** to contributing to **SaaS platforms** and experimenting with **cloud and ML workflows**.  
+**Languages & Frameworks**  
+`TypeScript` `JavaScript` `Go` `Python` `Next.js` `React` `Vue.js` `Tailwind CSS`
 
-Philosophy: *Stay curious, keep learning, and build for the future.*  
+**Backend, Cloud & Databases**  
+`PostgreSQL` `MongoDB` `Docker` `Kubernetes` `Terraform` `Linux` `Prismic CMS` `Firebase`
 
+---
 
+### 🚀 Featured Projects
 
-## 🔧 Technologies & Tools  
+* **[Greenlight API](https://github.com/madou9/greenlight-movie-api)**  
+  Modular JSON API built with **Go** and **PostgreSQL**. Features optimistic concurrency control, structured logging, context timeouts, and IP-based rate limiting.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> 
-</p>  
-
-
-## 🚀 Projects & Work  
-
-- **Frontend Developer Intern @ Serverless Salad** – Contributed to a B2B SaaS platform, building UI components and collaborating with backend engineers.  
-- **Cloud Engineering Projects** – Hands-on with **OpenStack, Kubernetes, and MLflow** during my time at Arkadia / accelerator programs.  
-- **Personal Projects** – Explore my repos for experiments in **Vue.js, React, and Go**.  
+* **[Music Streaming Platform](https://github.com/madou9/music-platform)**  
+  Full-featured music streaming app built using **Vue.js**, **Pinia**, **Tailwind CSS**, and **Firebase** for real-time authentication and data storage.
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hama-issoufou/" target="_blank">
-    <img width="18%" alt="Check my LinkedIn" src="https://user-images.githubusercontent.com/118751159/216603615-c221cd5b-b707-4c5c-9cff-1dc2430a60d2.png"/>
+  <a href="https://linkedin.com/in/hama-issoufou" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ihama.hindjekoye@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
