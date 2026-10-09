@@ -21,9 +21,9 @@
 ### 👨‍💻 About Me
 
 - 🏢 **Now:** Full-Stack Developer Intern at **Werk 8**, building client projects with Next.js, TypeScript and Prismic
-- ☁️ **LEVEL3 Cloud Track** at **Arkadia** (designed with STACKIT): a secure cloud platform with OpenStack, Kubernetes, Terraform, Zitadel auth, observability, a Vue.js UI and a Go SDK
-- 🤖 **LEVEL3 MLOps Track** at **Arkadia** (designed with appliedAI): building and deploying ML systems from model development to production with Python, MLflow and Docker
-- 🎓 **Education:** Software Engineering at **42 Heilbronn**, engineering degree recognised by the ZAB as Bachelor-level
+- ☁️ **Cloud Engineering Track, curriculum by STACKIT** at **Arkadia** (designed with STACKIT): a secure cloud platform with OpenStack, Kubernetes, Terraform, Zitadel auth, observability, a Vue.js UI and a Go SDK
+- 🤖 **MLOps Track, curriculum by appliedAI** at **Arkadia** (designed with appliedAI): building and deploying ML systems from model development to production with Python, MLflow and Docker
+- 🎓 **Education:** Software Engineering at **42 Heilbronn**, Bachelor's Degree in Industrial Engineering (equivalent to a German Bachelor's)
 - 🔭 **Interested in:** backend services in Go, observability, distributed systems and clean frontend architecture
 - 💬 **Languages:** French (native), English (fluent), German (B2)
 
