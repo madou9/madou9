@@ -12,7 +12,6 @@
 </p>
 
 <img src="https://img.shields.io/badge/Open%20to-Junior%20Full--Stack%20%2F%20Backend%20roles%20in%20Germany-2EA44F?style=flat-square" alt="Open to work"/>
-<img src="https://komarev.com/ghpvc/?username=madou9&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
 </div>
 
